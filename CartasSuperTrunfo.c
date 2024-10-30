@@ -1,19 +1,17 @@
 #include <stdio.h>
 
 int main(){
-     int população;
-     int pontos_turisticos;
-     float area;
-     float PIB;
-     char nome, codigo;
-     char codigo;
+printf("Desafio super Trunfo, paises!\n");
 
-     printf("Desafio Super Trunfo - Países\n");
-
-
+int populacao;
+int pontosturisticos;
+float area;
+float PIB;
+char nome;
+char codigo;
 
 
 
-    
+
 
 }

@@ -5,10 +5,14 @@ int main(){
      int pontos_turisticos;
      float area;
      float PIB;
-     char nome_cidade;
-     char Código_cidade;
+     char nome, codigo;
+     char codigo;
 
-printf("Desafio Super Trunfo!\n");
+     printf("Desafio Super Trunfo - Países\n");
+
+
+
+
 
     
 
